@@ -23,4 +23,3 @@ def testHerencia():
     if (isinstance(futbolista, Deportista) and isinstance(futbolista, Persona)):
         ok = True
     assert(ok)
-
